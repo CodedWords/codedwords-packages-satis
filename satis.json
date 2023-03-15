@@ -1,0 +1,12 @@
+{
+    "name": "CodedWords/packages.codedwords.com",
+    "homepage": "https://packages.codedwords.com",
+    "output-dir": "public",
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/CodedWords/base.git" }
+    ],
+    "archive": {
+        "directory": "dist"
+    },
+    "require-all": true
+}
